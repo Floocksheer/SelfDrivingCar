@@ -6,12 +6,12 @@ This project is an AI-enhanced autonomous vehicle that can navigate independentl
 ![selfdrivingcar](https://github.com/user-attachments/assets/7c95b740-3020-40e4-aefd-a78a2da46137)
 
 ## Key Features
-🎯Lane Keeping & Centering: Detects and follows lane markings using OpenCV.
-🎯Traffic Light & Sign Recognition: Uses computer vision to recognize and respond to road signs and signals.
-🎯Autonomous Parking: Uses ultrasonic sensors to assist in parking maneuvers.
-🎯Obstacle Detection & Emergency Stop: Stops when an obstacle is detected at the rear.
-🎯Automatic Headlights: Adjusts lighting based on ambient brightness.
-🎯Turn & Lane Change Signals: Activates indicators during navigation.
+🎯Lane Keeping & Centering: Detects and follows lane markings using OpenCV.<br>
+🎯Traffic Light & Sign Recognition: Uses computer vision to recognize and respond to road signs and signals.<br>
+🎯Autonomous Parking: Uses ultrasonic sensors to assist in parking maneuvers.<br>
+🎯Obstacle Detection & Emergency Stop: Stops when an obstacle is detected at the rear.<br>
+🎯Automatic Headlights: Adjusts lighting based on ambient brightness.<br>
+🎯Turn & Lane Change Signals: Activates indicators during navigation.<br>
 
 ## 🛠 Technologies & Components
 The project utilizes Raspberry Pi, Arduino, and OpenCV for real-time image processing and control.
