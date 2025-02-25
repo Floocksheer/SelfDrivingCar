@@ -17,12 +17,12 @@ This project is an AI-enhanced autonomous vehicle that can navigate independentl
 The project utilizes Raspberry Pi, Arduino, and OpenCV for real-time image processing and control.
 
 ### 🔧 Hardware
-✅Processing & Control: Raspberry Pi 4, Arduino Uno R3
-✅Vision System: Raspberry Pi Camera Module
-✅Chassis & Motors: 4WD Robot Car Platform, L298N Motor Driver
-✅Power Management: 18650 Li-ion Batteries, DC-DC Step Down Modules
-✅Sensors: Ultrasonic Distance Sensors (HC-SR04), Light Sensor (LM393)
-✅Indicators & Lighting: RGB LEDs, Red LED, Buzzer for alerts
+✅Processing & Control: Raspberry Pi 4, Arduino Uno R3.
+✅Vision System: Raspberry Pi Camera Module.
+✅Chassis & Motors: 4WD Robot Car Platform, L298N Motor Driver.
+✅Power Management: 18650 Li-ion Batteries, DC-DC Step Down Modules.
+✅Sensors: Ultrasonic Distance Sensors (HC-SR04), Light Sensor (LM393).
+✅Indicators & Lighting: RGB LEDs, Red LED, Buzzer for alerts.
 
 ### 💻 Software & Algorithms
 🔹Computer Vision: OpenCV for lane detection and sign recognition
