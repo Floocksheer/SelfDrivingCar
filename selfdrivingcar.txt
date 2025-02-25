@@ -1,0 +1,20 @@
+                             Malzeme Listesi
+- Raspberry Pi 3 ve 4 Uyumlu Kamera Modülü                           x1                                 
+- 4WD Robot Araba Platformu                                          x1          
+- Raspberry Pi 4 4GB - Model B Rev1.2                                x1          
+- Arduino Uno R3 DIP Geliştirme Kartı - Klon                         x1         
+- L298N Motor Sürücü Kartı                                           x1               
+- 3.7V 2400mAh 18650 Li-ion Şarjlı Pil - Başsız                      x4          
+- XL4015 Akım ve Voltaj Ayarlı DC-DC Step Down 5A Lipo Şarj Modülü   x3       
+- 2S 5A BMS 18650 Lityum Pil Sarj Koruma Devresi                     x1          
+- 2 Pin Sm Jst Kablo 20cm Erkek - Dişi Takım                         x5       
+- Çok Damarlı Montaj Kablosu 24AWG 25 Metre Kırmızı                  x1        
+- Tek Damarlı Montaj Kablosu 24AWG 25 Metre Beyaz                    x1         
+- Power Giriş Konnektörü Şase Tip (2.5mm)                            x2       
+- 12V 2,5A Adaptör                                                   x1
+- HC-SR04 Arduino Ultrasonic Mesafe Sensoru                          x2
+- Buzzer - 12mm                                                      x2
+- 5mm Kirmizi Led                                                    x1
+- RGB LED 5mm                                                        x2
+- LM393 Isik Sensoru Karti                                           x1
+- Raspberry Pi 4 Uyumlu CPU Sogutma Fani - 30x30x7mm - Fircasiz      x1
