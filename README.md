@@ -30,9 +30,9 @@ The project utilizes Raspberry Pi, Arduino, and OpenCV for real-time image proce
 🔹Navigation & Decision Making: Python-based algorithms on Raspberry Pi.<br>
 
 ### 🚀 Future Improvements
-🔹Improving sign detection accuracy with optimized image processing
-🔹Enhancing obstacle detection for better autonomous behavior
-🔹Adding real-time data logging for performance analysis
-🔹This project is an exciting step in autonomous vehicle development, providing hands-on experience in embedded systems, AI, and robotics.
-🔹Self driving car AutoCAd circuit drawing 
+🔹Improving sign detection accuracy with optimized image processing.<br>
+🔹Enhancing obstacle detection for better autonomous behavior.<br>
+🔹Adding real-time data logging for performance analysis.<br>
+🔹This project is an exciting step in autonomous vehicle development, providing hands-on experience in embedded systems, AI, and robotics.<br>
+🔹Self driving car AutoCAd circuit drawing.<br>
 
